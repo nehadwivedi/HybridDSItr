@@ -1,0 +1,2 @@
+# HybridDSItr
+This repositary contains a vertical format based mining algorithm based on a hybrid data structure. There are four versions commited. HybridDSItr contains a Hybrid Data Structure and all features of pruning. HybridDSItr_Del does not contain pruning for supersets of deleted items. HybridDSItr_noLast does not contain pruning for supersets of highest frequency item. HybridDSItr_Plain using a pure Bitset data structure instead of a hybrid data structure. The different algorithms have been added to compared performances of the different features.
